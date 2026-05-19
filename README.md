@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Lucas 👋
 
-<!--
-**Lucasfontez/Lucasfontez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Dados Jr.** com foco em transformar dados em decisões de negócio. Construo análises end-to-end — da ingestão à visualização — com ênfase em datasets públicos brasileiros e perguntas com impacto real.
 
-Here are some ideas to get you started:
+📍 São Paulo, SP &nbsp;·&nbsp; 🎯 Aberto a oportunidades em Análise de Dados, BI e Análise de Negócios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Stack
+
+**Dados & SQL**  
+`SQL Server` · `PostgreSQL` · `MySql`
+
+**Python**  
+`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Jupyter Notebook`
+
+**BI & Visualização**  
+`Power BI` · `DAX` · `Modelagem de dados` · `Storytelling com dados`
+
+**Ferramentas**  
+`Excel Intermediário` · `DBeaver` · `Git/GitHub` · `Figma`
+
+---
