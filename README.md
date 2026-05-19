@@ -9,7 +9,7 @@
 ## 🛠 Stack
 
 **Dados & SQL**  
-`SQL Server` · `PostgreSQL` · `MySql`
+`SQL Server` · `PostgreSQL` · `MySQL`
 
 **Python**  
 `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Jupyter Notebook`
