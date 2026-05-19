@@ -2,7 +2,7 @@
 
 **Analista de Dados Jr.** com foco em transformar dados em decisões de negócio. Construo análises end-to-end — da ingestão à visualização — com ênfase em datasets públicos brasileiros e perguntas com impacto real.
 
-📍 São Paulo, SP &nbsp;·&nbsp; 🎯 Aberto a oportunidades em Análise de Dados, BI e Análise de Negócios
+📍 São Paulo, SP &nbsp;·&nbsp; 🎯 Em busca de oportunidades em Análise de Dados, Business Intelligence ou Análise de Negócios — Estágio ou Júnior
 
 ---
 
