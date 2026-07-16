@@ -58,8 +58,6 @@ Sou **Analista de Dados Jr.** com foco em transformar dados em **decisões de ne
 
 ## 🚀 Projetos em destaque
 
-> Troque `NOME-DO-REPO` pelos seus repositórios reais. Esses cards viram atalhos clicáveis para os projetos.
-
 <div align="center">
 
 <a href="https://github.com/Lucasfontez/analise-cpgf-2024">
