@@ -58,16 +58,48 @@ Sou **Analista de Dados Jr.** com foco em transformar dados em **decisões de ne
 
 ## 🚀 Projetos em destaque
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
+<h3 align="center">📊 Análise CPGF 2024</h3>
+
+<p align="center">
 <a href="https://github.com/Lucasfontez/analise-cpgf-2024">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasfontez&repo=analise-cpgf-2024-1&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" />
+<img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-2c5364?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/Lucasfontez/drivewell-motors-powerbi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasfontez&repo=drivewell-motors-powerbi-2&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" />
-</a>
+</p>
 
-</div>
+<p align="center">Análise exploratória dos gastos do <b>Cartão de Pagamento do Governo Federal</b> — de dados públicos a insights sobre o uso da verba.</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🚗 DriveWell Motors — Power BI</h3>
+
+<p align="center">
+<a href="https://github.com/Lucasfontez/drivewell-motors-powerbi">
+<img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-2c5364?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+<p align="center">Dashboard de vendas com <b>modelagem dimensional</b>, KPIs de negócio e storytelling visual ponta a ponta.</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/DAX-01B8AA?style=flat-square" />
+<img src="https://img.shields.io/badge/Modelagem_Dimensional-243B55?style=flat-square" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
