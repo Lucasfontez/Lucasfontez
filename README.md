@@ -107,11 +107,6 @@ Sou **Analista de Dados Jr.** com foco em transformar dados em **decisões de ne
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucasfontez&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasfontez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=38BDF8" />
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=Lucasfontez&theme=tokyonight&hide_border=true" />
 
 </div>
