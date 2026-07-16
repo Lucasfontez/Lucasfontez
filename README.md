@@ -62,10 +62,10 @@ Sou **Analista de Dados Jr.** com foco em transformar dados em **decisões de ne
 
 <div align="center">
 
-<a href="https://github.com/Lucasfontez/NOME-DO-REPO-1">
+<a href="https://github.com/Lucasfontez/analise-cpgf-2024">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasfontez&repo=analise-cpgf-2024-1&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" />
 </a>
-<a href="https://github.com/Lucasfontez/NOME-DO-REPO-2">
+<a href="https://github.com/Lucasfontez/drivewell-motors-powerbi">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasfontez&repo=drivewell-motors-powerbi-2&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" />
 </a>
 
