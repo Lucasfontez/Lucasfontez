@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou **Analista de Dados Jr.** com foco em transformar dados em **decisões de negócio**. Construo análises **end-to-end** — da ingestão à visualização — com ênfase em **datasets públicos brasileiros** e perguntas com impacto real.
 
